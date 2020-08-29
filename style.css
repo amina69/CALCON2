@@ -79,7 +79,7 @@ img{
 
 }
 
-@media (max-width: 200px){
+@media screen(max-width: 600px){
     body{
         background-color: #add8e6;
         color:black;
@@ -115,11 +115,11 @@ img{
         border-style: none;
         outline: none;
         font-size: 15px;
-        width: 250px
+        width: 400px
     }
     
     .input2{
-        width: 184px;
+        width: 300px;
         padding: 12px;
         border-radius: 5px;
         border-style: none;
