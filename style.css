@@ -79,7 +79,7 @@ img{
 
 }
 
-@media (max-width: 480px){
+@media (max-width: 200px){
     body{
         background-color: #add8e6;
         color:black;
