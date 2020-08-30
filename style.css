@@ -35,17 +35,17 @@ body{
     border-radius: 5px;
     border-style: none;
     outline: none;
-    font-size: 20px;
-    width: 600px
+    font-size: 40px;
+    width: 500px
 }
 
 .input2{
-    width: 400px;
+    width: 350px;
     padding: 70px;
     border-radius: 5px;
     border-style: none;
     outline: none;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 select{
@@ -67,7 +67,7 @@ button{
 
 img{
     position: absolute;
-    top: 5%;
+    top: 20%;
     left: 50%;
     opacity: 0.5;
 }
